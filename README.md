@@ -26,5 +26,4 @@ Thereafter, we calculated the fair spread as the ratio of default leg to premium
 MonteCarloStandardOption1.vb    #visual basic for applications#
 (Pricing of European Call and Put Options)
 
-We show how to price/calculate a simple european call and put option (equity derivatives).
-This VBA script contains the Black–Scholes options pricing formula, If and ElseIf conditional statements, multiple data types including arrays, random number generation, For-loop statments and excel's Max function. We included standard deviation calculations to quantify error in the monte carlo simulation. Upon request we can share how to price/calculation exotic options.
+We show how to price/calculate a simple european call and put option (equity derivatives). This is a monte carlo method for options pricing. This VBA script contains, If and ElseIf conditional statements, multiple data types including arrays, random number generation, For-loop statments and excel's Max function. We included standard deviation calculations to quantify error in the monte carlo simulation. This script could be used as a building block for more interesting options(we can share how to price/calculation exotic options upon request).
