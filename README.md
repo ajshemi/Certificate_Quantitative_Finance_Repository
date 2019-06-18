@@ -1,5 +1,5 @@
 # CQF_repo
-cqf projects and exercises
+certificate in quantitative finance(cqf) projects and exercises
 
 CQF_FINAL_PROJECT.ipynb  #python notebook#
 (Pricing a Basket of Credit Default Swaps(CDS))
