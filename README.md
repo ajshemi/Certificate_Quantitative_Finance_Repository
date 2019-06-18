@@ -23,7 +23,7 @@ We used 100000 X 5 big simulated dataset to conduct Monte Carlo simulation.
 We then average premium and default legs across simulations separately for each kth-to-default instrument. 
 Thereafter, we calculated the fair spread as the ratio of default leg to premium leg
 
-MonteCarloStandardOption1.vb    #visual basic application for excel#
+MonteCarloStandardOption1.vb    #visual basic for applications#
 (Pricing of European Call and Put Options)
 
 We show how to price/calculation a simple european call and put option (equity derivatives).
