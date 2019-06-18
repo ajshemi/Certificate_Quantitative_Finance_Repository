@@ -1,7 +1,8 @@
 # CQF_repo
 cqf projects and exercises
 
-Pricing a Basket of Credit Default Swaps(CDS)
+CQF_FINAL_PROJECT.ipynb
+(Pricing a Basket of Credit Default Swaps(CDS))
 
 Commercial Basket CDS products include standardised iTraxx and CDX indices.
 These indices typical comprise at least twenty five (25) entities. 
