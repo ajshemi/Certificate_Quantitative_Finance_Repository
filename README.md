@@ -1,7 +1,7 @@
 # CQF_repo
 cqf projects and exercises
 
-CQF_FINAL_PROJECT.ipynb
+CQF_FINAL_PROJECT.ipynb  #python notebook#
 (Pricing a Basket of Credit Default Swaps(CDS))
 
 Commercial Basket CDS products include standardised iTraxx and CDX indices.
@@ -22,3 +22,9 @@ we then calculated the discounted values of premium and default legs for each in
 We used 100000 X 5 big simulated dataset to conduct Monte Carlo simulation. 
 We then average premium and default legs across simulations separately for each kth-to-default instrument. 
 Thereafter, we calculated the fair spread as the ratio of default leg to premium leg
+
+MonteCarloStandardOption1.vb    #visual basic application for excel#
+(Pricing of European Call and Put Options)
+
+We show how to price/calculation a simple european call and put options (equity derivatives)..
+This VBA script contains If and ElseIf conditional statements, multiple data types including arrays, random number generation, For-loop statments and excel's Max function. We included standard deviation calculations to quantify error in the monte carlo simulation. Upon request we can share how to price/calculation exotic options
